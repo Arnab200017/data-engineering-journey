@@ -11,6 +11,7 @@ I am a CSE student at North South University, Bangladesh, and I am learning Data
 - Linux command line and basic file operations
 - Log analysis using Linux commands
 - Git and GitHub basics
+- Git branching, commits, and pull requests
 - Creating repositories and managing commits
 
 I will continue updating this repository as I learn new skills.
